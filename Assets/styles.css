@@ -21,3 +21,9 @@ ul li {
     display: inline;
     float: right;
 }
+
+#flex-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
